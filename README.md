@@ -1,0 +1,2 @@
+# tend-legal
+Privacy Policy
